@@ -1,0 +1,21 @@
+{
+  "name": "parcial_luis_amigo",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "ejs": "^3.1.10",
+    "express": "^4.21.1",
+    "express-ejs-layouts": "^2.5.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.11.3",
+    "nodemon": "^3.1.7"
+  }
+}
